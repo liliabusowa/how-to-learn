@@ -8,3 +8,8 @@
     flex-basis: content;
     height: 0;
   }
+
+.footer__column-link:hover{
+  opacity: 0.5;
+  transition-duration: 2s;
+}
