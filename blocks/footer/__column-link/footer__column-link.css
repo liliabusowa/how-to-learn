@@ -1,14 +1,13 @@
 .footer__column-link {
-    margin: 0;
-    padding: 0;
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-    flex-wrap: wrap;
-    flex-basis: content;
-    height: 0;
-  }
-
+  margin: 0;
+  padding: 0;
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  flex-wrap: wrap;
+  flex-basis: content;
+  height: 0;
+}
 .footer__column-link:hover{
   opacity: 0.5;
   transition-duration: 2s;
